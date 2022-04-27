@@ -1,5 +1,7 @@
+body{
+    background-image: url("Image.jpg");
+}
 .body{
-    background-image: url(lizzy3.jpg) ;
     background-size: cover;
     height: fit-content;
     text-align: center;
